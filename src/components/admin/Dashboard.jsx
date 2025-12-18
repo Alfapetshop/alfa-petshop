@@ -10,7 +10,7 @@ export default function Dashboard() {
       <h2 className="text-3xl font-bold text-gray-800">Dashboard</h2>
       
       {/* Statistics Card */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+      <div className="grid grid-cols-1 gap-6">
         <div className="bg-white rounded-xl shadow-lg p-6">
           <div className="flex items-center justify-between">
             <div>
